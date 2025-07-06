@@ -1,2 +1,2 @@
-# SMS
-This is a Student Management System project. 
+# Project1
+This is a project. 
